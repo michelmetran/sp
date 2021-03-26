@@ -1,0 +1,1 @@
+http://datageo.ambiente.sp.gov.br/geoserver/datageo/LimiteMacrometropole2015/wfs?version=1.0.0&request=GetFeature&outputFormat=SHAPE-ZIP&typeName=LimiteMacrometropole2015
