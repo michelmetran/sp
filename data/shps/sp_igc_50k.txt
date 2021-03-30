@@ -1,1 +1,0 @@
-http://datageo.ambiente.sp.gov.br/geoserver/datageo/LimiteMunicipal/wfs?version=1.0.0&request=GetFeature&outputFormat=SHAPE-ZIP&typeName=LimiteMunicipal

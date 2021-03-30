@@ -1,4 +1,4 @@
-id_municipio,nome_municipio,nome_macrometropole
+id_municipio,municipio_nome,macrometropole
 3500600,Águas de São Pedro,Macrometrópole
 3500758,Alambari,Macrometrópole
 3501152,Alumínio,Macrometrópole
@@ -46,7 +46,7 @@ id_municipio,nome_municipio,nome_macrometropole
 3513603,Cunha,Macrometrópole
 3513801,Diadema,Macrometrópole
 3514908,Elias Fausto,Macrometrópole
-3515004,Embu das Artes,Macrometrópole
+3515004,Embu,Macrometrópole
 3515103,Embu-Guaçu,Macrometrópole
 3515152,Engenheiro Coelho,Macrometrópole
 3515707,Ferraz de Vasconcelos,Macrometrópole
@@ -91,7 +91,7 @@ id_municipio,nome_municipio,nome_macrometropole
 3528403,Mairinque,Macrometrópole
 3528502,Mairiporã,Macrometrópole
 3529401,Mauá,Macrometrópole
-3530607,Mogi das Cruzes,Macrometrópole
+3530607,Moji das Cruzes,Macrometrópole
 3530904,Mombuca,Macrometrópole
 3531100,Mongaguá,Macrometrópole
 3531704,Monteiro Lobato,Macrometrópole
@@ -130,7 +130,7 @@ id_municipio,nome_municipio,nome_macrometropole
 3545159,Saltinho,Macrometrópole
 3545209,Salto,Macrometrópole
 3545308,Salto de Pirapora,Macrometrópole
-3545803,Santa Bárbara d`Oeste,Macrometrópole
+3545803,Santa Bárbara D'Oeste,Macrometrópole
 3546009,Santa Branca,Macrometrópole
 3546702,Santa Gertrudes,Macrometrópole
 3546801,Santa Isabel,Macrometrópole
